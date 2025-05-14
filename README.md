@@ -21,13 +21,13 @@ Whether you're trying to understand a system, troubleshoot an issue, or extract 
 
 TechScanAI
 ├── index/
-│ └── document_index.json # Precomputed document embeddings and metadata
+├── document_index.json # Precomputed document embeddings and metadata
 ├── .gitignore # Standard Git exclusions
 ├── chatbot.py # LLM-based question answering interface
 ├── document_indexer.py # Embeds and indexes document content
 ├── document_search.py # Semantic document search logic
 ├── document_summarizer.py # Summarization pipeline
-└── README.md # You're reading it!
+├── README.md # You're reading it!
 
 
 ---
