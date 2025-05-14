@@ -19,6 +19,7 @@ Whether you're trying to understand a system, troubleshoot an issue, or extract 
 
 ## 🗂️ Project Structure
 
+```
 TechScanAI
 ├── index/
 ├── document_index.json # Precomputed document embeddings and metadata
@@ -28,7 +29,7 @@ TechScanAI
 ├── document_search.py # Semantic document search logic
 ├── document_summarizer.py # Summarization pipeline
 ├── README.md # You're reading it!
-
+```
 
 ---
 
